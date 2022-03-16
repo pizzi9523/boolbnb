@@ -41,3 +41,59 @@
     </svg>
 </p>
 
+<p>
+<h1> BoolBnB è una web app che permette di trovare e gestire l’affitto di appartamenti. </h1>
+
+I proprietari di appartamenti, registrandosi a BoolBnB, possono inserire le informazioni delle loro proprietà e decidere se sponsorizzarle per avere una posizione evidenziata in home page.
+
+Gli utenti interessati ad affittare, senza registrazione, possono cercare e visualizzare gli appartamenti. Una volta scelto l’appartamento di interesse, possono inviare un messaggio al proprietario tramite la piattaforma, per chiedere maggiori dettagli.
+
+Tipi di Utenti che possono utilizzare BoolBnB:
+1. Utente registrato (UR): un utente che ha effettuato la registrazione.  
+1. Utente registrato con appartamento (URA): un utente che ha effettuato la registrazione e ha inserito nel sistema almeno una appartamento.  
+1. Utente interessato (UI): un qualsiasi utente del sito, non registrato.
+    
+    
+## Requisiti Funzionali:
+1. (RF1) Permettere ai proprietari di appartamento di registrarsi alla piattaforma.
+1. (RF2) Permettere ai proprietari di appartamento registrati di aggiungere un appartamento alla piattaforma.
+1. (RF3) Permettere ai visitatori di ricercare un appartamento.
+1. (RF4) Permettere ai visitatori di vedere i dettagli di un appartamento. 
+1. (RF5) Permettere ai visitatori di scrivere al proprietario di un appartamento per chiedere informazioni.
+1. (RF6) Permettere ai proprietari di appartamento registrati di vedere i messaggi ricevuti.
+1. (RF7) Permettere ai proprietari di appartamento registrati di sponsorizzare il proprio appartamento.
+1. (RF8) Permettere ai proprietari di appartamento registrati di vedere statistiche dei propri appartamenti.
+
+
+
+Lista delle pagine
+
+<ul>
+    <li>
+        Homepage: offre la possibilità di ricercare gli appartamenti. Inoltre permette un accesso veloce alle pagine dettaglio degli appartamenti in evidenza
+    </li>
+    <li>
+        Pagina di Ricerca Avanzata: permette di visualizzare i risultati di ricerca, ogni risultato permetterà l’accesso alla pagina di dettaglio dell’appartamento. Inoltre è           possibile raffinare la ricerca senza il refresh della pagina, applicando dei filtri.
+    </li>
+    <li>
+        Pagina Dettaglio Appartamento Pubblica: permette di visualizzare tutti i dettagli disponibili per un appartamento e permette l’invio di un messaggio al proprietario.
+    </li>
+    <li>
+        Dashboard Utente Registrato: permette l’inserimento di un nuovo appartamento e l’accesso ai propri appartamenti.
+    </li>
+    <li>
+        Pagina Lista Appartamenti: Da qui è possibile accedere alla modifica e cancellazione dei propri appartamenti, e accedere ai relativi messaggi e statistiche.
+    </li>
+    <li>
+        Pagina Lista Messaggi Singolo Appartamento.
+    </li>
+    <li>
+        Pagina Sponsorizzazione: tramite questo pannello è possibile sponsorizzare un singolo appartamento alla volta, selezionando il tipo di promozione desiderata e inserendo         i dettagli della carta di credito.
+    </li>
+    <li>
+        Pagina Statistiche Singolo Appartamento: permette di visualizzare le statistiche dell’appartamento selezionato. Nello specifico i grafici mostrano il numero di                   visualizzazioni e il numero di messaggi relativi all’appartamento per mesi/anni.
+    </li>
+</ul>
+       
+
+
