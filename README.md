@@ -47,23 +47,35 @@ I proprietari di appartamenti, registrandosi a BoolBnB, possono inserire le info
 
 Gli utenti interessati ad affittare, senza registrazione, possono cercare e visualizzare gli appartamenti. Una volta scelto l’appartamento di interesse, possono inviare un messaggio al proprietario tramite la piattaforma, per chiedere maggiori dettagli.
 <br>
-Tipi di Utenti che possono utilizzare BoolBnB:
-1. Utente registrato (UR): un utente che ha effettuato la registrazione.  
-1. Utente registrato con appartamento (URA): un utente che ha effettuato la registrazione e ha inserito nel sistema almeno una appartamento.  
-1. Utente interessato (UI): un qualsiasi utente del sito, non registrato.
+
+<h2> Tipi di Utenti che possono utilizzare BoolBnB: </h2>
+<ul>
+    <li>
+        Utente registrato (UR): un utente che ha effettuato la registrazione.
+    </li>
+    <li>
+         Utente registrato con appartamento (URA): un utente che ha effettuato la registrazione e ha inserito nel sistema almeno una appartamento.
+    </li>
+    <li>
+        Utente interessato (UI): un qualsiasi utente del sito, non registrato.
+    </li>
+</ul>
+
+</p>
 <br>    
-    
-## Requisiti Funzionali:
-1. (RF1) Permettere ai proprietari di appartamento di registrarsi alla piattaforma.
-1. (RF2) Permettere ai proprietari di appartamento registrati di aggiungere un appartamento alla piattaforma.
-1. (RF3) Permettere ai visitatori di ricercare un appartamento.
-1. (RF4) Permettere ai visitatori di vedere i dettagli di un appartamento. 
-1. (RF5) Permettere ai visitatori di scrivere al proprietario di un appartamento per chiedere informazioni.
-1. (RF6) Permettere ai proprietari di appartamento registrati di vedere i messaggi ricevuti.
-1. (RF7) Permettere ai proprietari di appartamento registrati di sponsorizzare il proprio appartamento.
-1. (RF8) Permettere ai proprietari di appartamento registrati di vedere statistiche dei propri appartamenti.
 
-
+<p>
+<h2> Requisiti Funzionali: </h2>
+<ol>
+    <li>(RF1) Permettere ai proprietari di appartamento di registrarsi alla piattaforma.</li>
+    <li>(RF2) Permettere ai proprietari di appartamento registrati di aggiungere un appartamento alla piattaforma.</li>
+    <li>(RF3) Permettere ai visitatori di ricercare un appartamento.</li>
+    <li>(RF4) Permettere ai visitatori di vedere i dettagli di un appartamento.</li>
+    <li>(RF5) Permettere ai visitatori di scrivere al proprietario di un appartamento per chiedere informazioni.</li>
+    <li>(RF6) Permettere ai proprietari di appartamento registrati di vedere i messaggi ricevuti.</li>
+    <li>(RF7) Permettere ai proprietari di appartamento registrati di sponsorizzare il proprio appartamento.</li>
+    <li>(RF8) Permettere ai proprietari di appartamento registrati di vedere statistiche dei propri appartamenti.</li>
+</ol>
 
 Lista delle pagine
 
