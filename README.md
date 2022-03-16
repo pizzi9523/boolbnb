@@ -46,12 +46,12 @@
 I proprietari di appartamenti, registrandosi a BoolBnB, possono inserire le informazioni delle loro proprietà e decidere se sponsorizzarle per avere una posizione evidenziata in home page.
 
 Gli utenti interessati ad affittare, senza registrazione, possono cercare e visualizzare gli appartamenti. Una volta scelto l’appartamento di interesse, possono inviare un messaggio al proprietario tramite la piattaforma, per chiedere maggiori dettagli.
-
+<br>
 Tipi di Utenti che possono utilizzare BoolBnB:
 1. Utente registrato (UR): un utente che ha effettuato la registrazione.  
 1. Utente registrato con appartamento (URA): un utente che ha effettuato la registrazione e ha inserito nel sistema almeno una appartamento.  
 1. Utente interessato (UI): un qualsiasi utente del sito, non registrato.
-    
+<br>    
     
 ## Requisiti Funzionali:
 1. (RF1) Permettere ai proprietari di appartamento di registrarsi alla piattaforma.
